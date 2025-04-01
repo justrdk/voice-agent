@@ -2,7 +2,7 @@
 
 This repository contains various examples demonstrating how to use the Restack AI Python SDK. These examples are designed to help you get started with Restack AI and showcase different features and use cases.
 
-This repository is organized into two sections:
+This repository is organized isnto two sections:
 
 - [Official examples](/): Actively maintained and tested by the Restack team
 - [Community](/community) examples: Contributed by the community and may not be regularly updated

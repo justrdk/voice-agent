@@ -14,7 +14,7 @@ This repository is organized isnto two sections:
 
 ## Getting Started
 
-1. Clone this repository:
+1. Clone this repository:s
 
    ```bash
    git clone https://github.com/restackio/examples-python
